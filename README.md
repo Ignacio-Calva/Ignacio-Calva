@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+<h3 align="center">
+  Bienvenido! Mi nombre es Luis Ignacio Calvá
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<!--
-**Ignacio-Calva/Ignacio-Calva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+💻 Estudiante de Tecnicatura en Programación
+📚 Con bases sólidas en C#, C++ y .NET
+📝 Interesado en el desarrollo de software y la gestión de bases de datos
+🔭 Mis proyectos más recientes incluyen un sistema de gestión tipo "Steam" y una app de gestion de stock
+🌟 Lenguajes principales: C#, C++, SQL
+🌱 Aprendiendo sobre desarrollo con Java.
+</pre>
+<hr>
