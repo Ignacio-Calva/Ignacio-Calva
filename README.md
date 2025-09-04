@@ -41,13 +41,15 @@
   
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<h3 align="center">Github Stats <img height="30" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"></h3>
 <br>
 
-<div>
+<div align="center"> 
 	
 ![](https://github-readme-stats.vercel.app/api?username=Ignacio-Calva&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ignacio-Calva&theme=dracula&hide_border=false)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Calva&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 </a>
