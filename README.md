@@ -18,7 +18,7 @@
 </pre>
 <hr>
 
-<h2 align="center">💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2 align="center" > 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
 
 <div align="center">
 
@@ -45,10 +45,12 @@
 <br>
 
 <div>
-
+	
 ![](https://github-readme-stats.vercel.app/api?username=Ignacio-Calva&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ignacio-Calva&theme=dracula&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Calva&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
 </div>
+<div align="center">
+	
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Calva&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+</a>
